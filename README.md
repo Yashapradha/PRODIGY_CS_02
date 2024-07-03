@@ -1,4 +1,4 @@
-ncryption and Decryption Tool
+Image Encryption and Decryption Tool
 
 ## Overview
 
